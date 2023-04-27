@@ -10,7 +10,7 @@ warning: true
 
 ## Lernziele 
 
-Den Ursprung und die grundlegende Funktionsweise von WebAssembly verstehen.
+Den Ursprung und die grundlegende Funktionsweise von WebAssembly kennen lernen.
 
 ## Hintergrund 
 
@@ -224,6 +224,7 @@ Wenig überraschend:
   PUSH #5 ;Push 5 auf den Stack
   ADD     ;Pop zwei Werte, addiere diese und push das Ergebnis auf den Stack
   ```
+
 
 ---
 
