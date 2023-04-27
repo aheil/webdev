@@ -209,7 +209,7 @@ Wenig überraschend:
   * Vorteil: Kompilierter Code kann optimiert werden 
 ---
 
-# Stack vs. Register (1)[^2] 
+## Stack vs. Register (1)[^2] 
 
 * Register-based 
   ```assembly
@@ -217,11 +217,6 @@ Wenig überraschend:
   LOAD R5,#4 ;Lade 4 in Register 5
   ADD R4,R5  ;Addiere R4 and R5, speichere den Wert in R4
   ```
-
----
-
-# Stack vs. Register (2)[^2] 
-
 
 * Stack
   ```assembly
